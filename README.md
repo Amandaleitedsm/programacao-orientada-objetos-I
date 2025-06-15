@@ -3,6 +3,7 @@
 Repositório destinado aos projetos, exercícios e práticas da disciplina Programação Orientada a Objetos I, do curso técnico em informática no Colégio Técnico Antônio Teixeira Fernandes (Univap).
 
 📄 Descrição
+
 Neste repositório estão armazenados os códigos desenvolvidos durante as aulas, aplicando os conceitos fundamentais e intermediários de Programação Orientada a Objetos (POO) utilizando a linguagem Python.
 
 Além dos conceitos de orientação a objetos, alguns projetos também envolvem integração com bancos de dados relacionais, utilizando MySQL.
