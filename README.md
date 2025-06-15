@@ -17,46 +17,50 @@ Além dos conceitos de orientação a objetos, alguns projetos também envolvem 
 🎯 Visual Studio (opcional) – utilizado em alguns testes ou desenvolvimentos específicos
 
 🔑 Conceitos abordados
-Classes e objetos
+  1. Classes e objetos
 
-Encapsulamento
+  2. Encapsulamento
 
-Herança
+  3. Herança
 
-Polimorfismo
+  4. Polimorfismo
 
-Métodos e atributos
+  5. Métodos e atributos
 
-Métodos construtores
+  6. Métodos construtores
 
-Manipulação de arquivos
+  7. Manipulação de arquivos
 
-Integração com banco de dados MySQL
+  8. Integração com banco de dados MySQL
 
-Modelagem de sistemas orientados a objetos
+  9. Modelagem de sistemas orientados a objetos
 
 🗂️ Conteúdo da pasta
-📄 Exercícios e desafios práticos
 
-🔧 Projetos aplicando os pilares da orientação a objetos
+    📄 Exercícios e desafios práticos
 
-🗄️ Projetos com conexão a banco de dados MySQL
+    🔧 Projetos aplicando os pilares da orientação a objetos
 
-📑 Documentações, anotações e materiais de apoio da disciplina
+    🗄️ Projetos com conexão a banco de dados MySQL
+
+    📑 Documentações, anotações e materiais de apoio da disciplina
 
 🚀 Objetivo da disciplina
-Compreender e aplicar os princípios da Programação Orientada a Objetos;
 
-Desenvolver sistemas simples e intermediários utilizando Python;
+  1. Compreender e aplicar os princípios da Programação Orientada a Objetos;
 
-Aprender a estruturar e organizar código de forma eficiente, reutilizável e escalável;
+  2. Desenvolver sistemas simples e intermediários utilizando Python;
 
-Integrar aplicações Python com banco de dados.
+  3. Aprender a estruturar e organizar código de forma eficiente, reutilizável e escalável;
+
+  4. Integrar aplicações Python com banco de dados.
 
 ⚠️ Aviso
+
 Este repositório tem finalidade acadêmica, servindo como registro de atividades, projetos e práticas desenvolvidas durante o curso. Alguns códigos são simplificados e voltados para o aprendizado de conceitos específicos.
 
 👥 Autores
+
 Amanda Leite de Souza Machado
 
 Turma: 2° ano 2025 – Univap
